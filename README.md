@@ -27,7 +27,7 @@ digitaletat makes a 'smooth' but yet striking form of direct demoracy possible -
 
 digitaletat is Civic participation 4.0.
 
-digitaletat is not comparable to more local or municipal approchaes (e.g. Orçamento participativo (Wikipedia)), as it explicitely targets 'big' topics on national or even supranationel level. 
+digitaletat is not comparable to more local or municipal approaches (e.g. (Orçamento participativo (Wikipedia))[https://pt.wikipedia.org/wiki/Or%C3%A7amento_participativo]), as it explicitely targets 'big' topics on national or even supranationel level. 
 
 ## Support
 
