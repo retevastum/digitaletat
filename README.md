@@ -1,5 +1,7 @@
 # digitaletat (<http://digitaletat.de>)
 
+Direct democracy through efficient ring-fenced taxes | Civic participation 4.0
+
 ## Theses
 
 * The strongest right a parliament has is budget law - for that taxes are compulsory.
