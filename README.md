@@ -37,4 +37,6 @@ If you like this project feel free to support via xmr, btg, btc or eth here: <ht
 
 ## More
 
-http://digitaletat.de
+* http://digitaletat.de
+* Discuss on github wiki: (https://github.com/retevastum/digitaletat/wiki)
+* Discuss on slack: (https://retevastum.slack.com)
